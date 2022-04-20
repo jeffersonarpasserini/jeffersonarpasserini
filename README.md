@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou Jefferson Passerini!
+## Bem vindo! Eu sou Jefferson Passerini.
 
 - 🔭 Sou docente de tecnologia da informação, atuando com análise e desenvolvimento de software.
 - 🌱 Atualmente faço doutorado em Ciência da Computação na área de Inteligência Computacional.
